@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ryadomdesk/static/css/main.0ea24066.chunk.css",
+    "main.js": "/ryadomdesk/static/js/main.af43612f.chunk.js",
+    "main.js.map": "/ryadomdesk/static/js/main.af43612f.chunk.js.map",
+    "runtime-main.js": "/ryadomdesk/static/js/runtime-main.0501fa68.js",
+    "runtime-main.js.map": "/ryadomdesk/static/js/runtime-main.0501fa68.js.map",
+    "static/js/2.a03091ba.chunk.js": "/ryadomdesk/static/js/2.a03091ba.chunk.js",
+    "static/js/2.a03091ba.chunk.js.map": "/ryadomdesk/static/js/2.a03091ba.chunk.js.map",
+    "static/js/3.defc44d5.chunk.js": "/ryadomdesk/static/js/3.defc44d5.chunk.js",
+    "static/js/3.defc44d5.chunk.js.map": "/ryadomdesk/static/js/3.defc44d5.chunk.js.map",
+    "index.html": "/ryadomdesk/index.html",
+    "static/css/main.0ea24066.chunk.css.map": "/ryadomdesk/static/css/main.0ea24066.chunk.css.map",
+    "static/js/2.a03091ba.chunk.js.LICENSE.txt": "/ryadomdesk/static/js/2.a03091ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0501fa68.js",
+    "static/js/2.a03091ba.chunk.js",
+    "static/css/main.0ea24066.chunk.css",
+    "static/js/main.af43612f.chunk.js"
+  ]
+}
