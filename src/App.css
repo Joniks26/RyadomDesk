@@ -1,0 +1,38 @@
+.App {
+  background: Silver;
+  width: auto;
+  height: 1500px;
+}
+
+.Desk {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2vw;
+  border: 100px solid Silver;
+}
+
+.Desk > div {
+  font-size: 20px;
+  padding: 30px;
+  background: #EFA901;
+  text-align: center;
+  border-radius: 30px;
+  border: 7px solid Grey;
+
+}
+
+.Desk > div:hover {
+  font-size: 20px;
+  padding: 30px;
+  background: #EFA901;
+  text-align: center;
+  border-radius: 40px;
+  border: 7px solid #22ACF3;
+;
+}
+
+img {
+  height: 35px;
+}
+
