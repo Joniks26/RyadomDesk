@@ -4,12 +4,55 @@
   height: 5500px;
 }
 
+.Header {
+  display: grid;
+  grid-template-rows: 90px;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2vw;
+  border: 50px solid Silver;
+  border-bottom: 0px solid Silver;
+}
+
+.Ryadom {
+  background: #7BBA5D;
+  font-size: 20px;
+  padding: 30px;
+  text-align: center;
+  border-radius: 30px;
+  border: 7px solid Grey;
+
+}
+.Ryadom:hover {
+  font-size: 20px;
+  padding: 30px;
+  text-align: center;
+  border-radius: 40px;
+  border: 7px solid #22ACF3;
+}
+
+.Logika {
+  background: #26A6E2;
+  font-size: 20px;
+  padding: 30px;
+  text-align: center;
+  border-radius: 30px;
+  border: 7px solid Grey;
+}
+.Logika:hover {
+  font-size: 20px;
+  padding: 30px;
+  text-align: center;
+  border-radius: 40px;
+  border: 7px solid #7BBA5D;
+}
+
 .Desk {
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 2vw;
   border: 100px solid Silver;
+  border-top: 50px solid Silver;
 }
 
 .Desk > div {
@@ -29,10 +72,13 @@
   text-align: center;
   border-radius: 40px;
   border: 7px solid #22ACF3;
-;
 }
 
 img {
   height: 35px;
 }
 
+a {
+  color: black;
+  text-decoration: none;
+}
