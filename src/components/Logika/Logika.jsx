@@ -11,7 +11,7 @@ let remOnline = () => {
 }
 
 let sync = () => {
-    window.open('https://sync.azproject.ru/schedule');
+    window.open('http://sync.new.azproject.ru/');
 }
 
 let price = () => {
