@@ -61,7 +61,7 @@ const Logika = () => {
                 B24</div>
 
             <div onClick={ shop }>
-                <img src='https://logika.shop/upload/CMax/90c/logo%20color%201.png'></img>
+                <img src='https://market.ryadom.pro/upload/CMax/567/Market_logo.png'></img>
                 <br/>
                 Интернет-магазин</div>
 
